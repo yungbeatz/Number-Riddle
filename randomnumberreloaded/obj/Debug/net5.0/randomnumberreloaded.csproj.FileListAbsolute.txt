@@ -1,0 +1,16 @@
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\bin\Debug\net5.0\randomnumberreloaded.exe
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\bin\Debug\net5.0\randomnumberreloaded.deps.json
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\bin\Debug\net5.0\randomnumberreloaded.runtimeconfig.json
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\bin\Debug\net5.0\randomnumberreloaded.runtimeconfig.dev.json
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\bin\Debug\net5.0\randomnumberreloaded.dll
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\bin\Debug\net5.0\ref\randomnumberreloaded.dll
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\bin\Debug\net5.0\randomnumberreloaded.pdb
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\obj\Debug\net5.0\randomnumberreloaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\obj\Debug\net5.0\randomnumberreloaded.AssemblyInfoInputs.cache
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\obj\Debug\net5.0\randomnumberreloaded.AssemblyInfo.cs
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\obj\Debug\net5.0\randomnumberreloaded.csproj.CoreCompileInputs.cache
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\obj\Debug\net5.0\randomnumberreloaded.dll
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\obj\Debug\net5.0\ref\randomnumberreloaded.dll
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\obj\Debug\net5.0\randomnumberreloaded.pdb
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\obj\Debug\net5.0\randomnumberreloaded.genruntimeconfig.cache
+C:\Users\Omen\source\repos\randomnumberreloaded\randomnumberreloaded\obj\Debug\net5.0\randomnumberreloaded.csproj.AssemblyReference.cache
